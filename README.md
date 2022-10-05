@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Chaubey</h1>
-<h3 align="center">A passionate frontend developer, Open Source Contributer from India</h3>
+<!--### Hello World, I am Akshat 👋 -->
+<div> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=40&vCenter=true&width=500&lines=Hey+There!!+%F0%9F%91%8B;I+am+Akshat+;I+am+a+Full+Stack+Developer&color=ff960d)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavchaubey&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavchaubey" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavchaubey" alt="vaibhavchaubey" /></a> </p>
+<img src="gif.gif" width="300px" alt=gif align="right"> 
+</div>
+  <br />
 
 - 🔭 I’m currently working on **Web development, DSA**
 
