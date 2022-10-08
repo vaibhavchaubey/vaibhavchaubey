@@ -62,3 +62,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavchaubey&show_icons=true&locale=en" alt="vaibhavchaubey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavchaubey&" alt="vaibhavchaubey" /></p>
+
+<p align="center">
+    <a href="https://github.com/atharvagadkari05/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Atharva Gadkari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvagadkari05&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
