@@ -77,20 +77,3 @@
 
 <br/>
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavchaubey&show_icons=true&locale=en&layout=compact" alt="vaibhavchaubey" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavchaubey&show_icons=true&locale=en" alt="vaibhavchaubey" /></p>
-
-
-
