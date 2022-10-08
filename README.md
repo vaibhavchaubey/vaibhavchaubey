@@ -9,23 +9,21 @@
   
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working on **Web development, DSA**
+- 🔭 I’m currently working on **Web Development, DSA**
 
 - 🌱 I’m currently learning **Full stack development**
 
 - 👯 I’m looking to collaborate on **Open Source, Web-D Projects**
 
-- 🤝 I’m looking for help with **Web development, Open source**
-
 - 🔗Linktree [https://linktr.ee/vaibhavchaubey](https://linktr.ee/vaibhavchaubey)
 
-- 💬 Ask me about **Open source, DSA/CP, Marvel😁**
+- 💬 Ask me about **Open Source, Web Development, DSA/CP, Marvel🤩**
 
-- 📫 How to reach me **vaibhavchaubey8802@gmail.com**
+- 📫 How to reach me **vaibhavchaubey8802@gmail.com**  or **[LinkedIn](https://www.linkedin.com/in/vaibhavchaubey/)**
 
-- 📄 My Resume [https://drive.google.com/file/d/1ujBJLm11uPnq_XZQa9w2IHo0L_bLdcPx/view?usp=sharing](https://drive.google.com/file/d/1ujBJLm11uPnq_XZQa9w2IHo0L_bLdcPx/view?usp=sharing)
+- 📄 My Resume [Link](https://drive.google.com/file/d/1ujBJLm11uPnq_XZQa9w2IHo0L_bLdcPx/view?usp=sharing)
 
-- ⚡ Fun fact **Fun fact i love watching Marvel and playing battle royale games like PUBG, COD, valorant**
+- ⚡ Fun fact **I love watching Marvel Movies and playing battle royale games like PUBG, COD, valorant**
 
 
 ## Connect with me:
