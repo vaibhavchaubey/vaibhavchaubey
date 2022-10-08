@@ -5,7 +5,7 @@
 
 <img src="gif.gif" width="300px" alt=gif align="right"> 
 </div>
-  <br />
+
   
 ## 🙋‍♂️ About Me:
 
