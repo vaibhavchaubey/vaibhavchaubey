@@ -22,6 +22,8 @@
 - 📫 How to reach me **vaibhavchaubey8802@gmail.com**  or **[LinkedIn](https://www.linkedin.com/in/vaibhavchaubey/)**
 
 - 📄 My Resume [Link](https://drive.google.com/drive/folders/1KT9HDV1_VZyMYeNwSTEL33lm8m96_eHd)
+  
+- 📄 My Portfolio Website [Link](https://vaibhavchaubey.vercel.app)
 
 - ⚡ Fun fact **I love watching Marvel Movies and playing battle royale games like PUBG, COD, valorant**
 
