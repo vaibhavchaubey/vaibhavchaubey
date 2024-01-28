@@ -23,7 +23,7 @@
 
 - 📄 My Resume [Link](https://drive.google.com/drive/folders/1KT9HDV1_VZyMYeNwSTEL33lm8m96_eHd)
   
-- 📄 My Portfolio Website [Link](https://vaibhavchaubey.vercel.app)
+- 💼 My Portfolio Website [Link](https://vaibhavchaubey.vercel.app)
 
 - ⚡ Fun fact **I love watching Marvel Movies and playing battle royale games like PUBG, COD, valorant**
 
